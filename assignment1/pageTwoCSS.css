@@ -1,0 +1,19 @@
+body {background-color: beige;}
+
+h1{font-size: 30px;
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+
+}
+
+p {
+    font-size: 20px;
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+}
+
+image{
+    height: 600px;
+    width: 400px;
+
+}

@@ -1,0 +1,27 @@
+body {
+    background-color: goldenrod;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+    /* First Page Header */
+h1{
+    font-size: 60px;
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+
+}
+
+p {
+    font-size: 20px;
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+}
+
+img{
+    height: 400px;
+    width: 300px;
+
+}
